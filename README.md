@@ -11,13 +11,21 @@ Part 1: Mathematica
 2.	Ron Kenett, Shelemyahu Zacks, Peter Gedeck, Industrial Statistics: A Computer Based Approach with Python, (2023), VA USA, Springer International Publishing.
 
 **Course Schedule**
+
 11/12/2023	GR	An Introduction to Python Environment and Datasets	
+
 18/12/2023	GR	Distribution Statistics & Data Visualization	
-25/12/2023	GR	Analysing More than One Variable Data	(Project 2 Given  & Assignment 3 Given)
+
+25/12/2023	GR	Analysing More than One Variable Data	**(Project 2 Given  & Assignment 3 Given)**
+
 01/01/2024	GR	Scatterplots, Linear & Multiple Regression	(Assignment 3 Due)
+
 08/01/2024	GR	Analysis of Variance (ANOVA) 	(Assignment 4 Given)
+
 15/01/2024	GR	Factorial ANOVA 	(Assignment 4 Due)
+
 22/01/2024	GR	Analysis of Categorical Data	(Test 2*, Project 2 Due)
+
 
 
 
