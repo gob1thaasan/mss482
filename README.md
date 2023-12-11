@@ -11,8 +11,8 @@ Part 1: Mathematica
 2.	Ron Kenett, Shelemyahu Zacks, Peter Gedeck, Industrial Statistics: A Computer Based Approach with Python, (2023), VA USA, Springer International Publishing.
 
 **Online Ref:**
-(SCIPY)[https://lectures.scientific-python.org/]
-(STATSMODELS)[https://www.statsmodels.org/devel/index.html]
+[https://lectures.scientific-python.org/](SCIPY)
+[https://www.statsmodels.org/devel/index.html](STATSMODELS)
 
 **Course Schedule**
 
