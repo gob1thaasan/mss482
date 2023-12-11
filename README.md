@@ -16,18 +16,19 @@ Part 1: Mathematica
 
 **Course Schedule**
 
-11/12/2023: An Introduction to Python Environment and Datasets	
-18/12/2023: Distribution Statistics & Data Visualization	
+11/12/2023: An Introduction to Python Environment and Datasets.
 
-25/12/2023: Analysing More than One Variable Data	**(Project 2 Given  & Assignment 3 Given)**
+18/12/2023: Distribution Statistics & Data Visualization.	
 
-01/01/2024: Scatterplots, Linear & Multiple Regression	**(Assignment 3 Due)**
+25/12/2023: Analysing More than One Variable Data.	**(Project 2 Given  & Assignment 3 Given)**
 
-08/01/2024: Analysis of Variance (ANOVA) 	**(Assignment 4 Given)**
+01/01/2024: Scatterplots, Linear & Multiple Regression.	**(Assignment 3 Due)**
 
-15/01/2024: Factorial ANOVA 	**(Assignment 4 Due)**
+08/01/2024: Analysis of Variance (ANOVA). 	**(Assignment 4 Given)**
 
-22/01/2024	GR	Analysis of Categorical Data	**(Test 2, Project 2 Due)**
+15/01/2024: Factorial ANOVA. 	**(Assignment 4 Due)**
+
+22/01/2024	GR	Analysis of Categorical Data.	**(Test 2, Project 2 Due)**
 
 
 
