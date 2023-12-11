@@ -6,14 +6,17 @@ Part 1: Mathematica
 
 **Part 2: Statistics with Python**
 
-**Ref:**
+**Book Ref:**
 1.	Ron Kenett, Shelemyahu Zacks, Peter GedeckModern Statistics: A Computer Based Approach with Python, (2022), VA USA, Springer International Publishing.
 2.	Ron Kenett, Shelemyahu Zacks, Peter Gedeck, Industrial Statistics: A Computer Based Approach with Python, (2023), VA USA, Springer International Publishing.
+
+**Online Ref:**
+(SCIPY)[https://lectures.scientific-python.org/]
+(STATSMODELS)[https://www.statsmodels.org/devel/index.html]
 
 **Course Schedule**
 
 11/12/2023: An Introduction to Python Environment and Datasets	
-
 18/12/2023: Distribution Statistics & Data Visualization	
 
 25/12/2023: Analysing More than One Variable Data	**(Project 2 Given  & Assignment 3 Given)**
