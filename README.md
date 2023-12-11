@@ -3,6 +3,7 @@
 This course introduces graphing technology and graphics to third- and fourth-year mathematics students, which can be utilized for solving mathematical problems and conducting data analysis. The course emphasizes how these technologies enhance students' comprehension and learning of mathematical and statistical concepts and theories through scientific visualization and laboratory experiences. The topics covered include calculus, linear algebra, differential equations, and statistics.
 
 Part 1: Mathematica
+
 **Part 2: Statistics with Python**
 
 **Ref:**
