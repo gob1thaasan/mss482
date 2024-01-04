@@ -28,7 +28,7 @@ Part 1: Mathematica
 
 - 15/01/2024: Analysis of Categorical Data.	**(Assignment 4 Due)**
 
-- 22/01/2024: Revision & Test 2**(Test 2, Project 2 Due)**
+- 22/01/2024: Revision & Test 2 **(Test 2, Project 2 Due)**
 
 
 
