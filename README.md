@@ -24,11 +24,11 @@ Part 1: Mathematica
 
 - 01/01/2024: Scatterplots, Linear & Multiple Regression.	**(Assignment 3 Due)**
 
-- 08/01/2024: Analysis of Variance (ANOVA). 	**(Assignment 4 Given)**
+- 08/01/2024: Analysis of Variance (ANOVA) & Factorial ANOVA. 	**(Assignment 4 Given)**
 
-- 15/01/2024: Factorial ANOVA. 	**(Assignment 4 Due)**
+- 15/01/2024: Analysis of Categorical Data.	**(Assignment 4 Due)**
 
-- 22/01/2024	GR	Analysis of Categorical Data.	**(Test 2, Project 2 Due)**
+- 22/01/2024: Revision & Test 2**(Test 2, Project 2 Due)**
 
 
 
